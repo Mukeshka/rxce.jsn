@@ -1,10 +1,10 @@
-!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>rxce.in/#/win</title
+    <title>cooe.in/#/win</title
      <script src="https://kit.fontawesome.com/44a79670a2.js" crossorigin="anonymous"></script>
     <style>
     *{
@@ -27,7 +27,7 @@
         margin-right:10px;
         color:white;
       }
-
+     
       #types{
         display:flex;
         justify-content: space-around;
@@ -120,7 +120,7 @@
         }
         .type:hover{
           border-bottom:1px solid green;
-
+          
         }
         #bet{
           position:absolute;
@@ -144,7 +144,7 @@
         #denomination{
           margin-top: 20px;
           box-shadow:0px 3px 2px #9FA1A6;
-
+          
           width:218px;
         }
         .money{
@@ -228,7 +228,7 @@
 
 <body>
   <div id="announce">
-    Recently received feedback from many users. There are many criminals impersonating Rxce staff and official websites to defraud user account information and steal user account balances. Hereby remind users to strengthen their awareness of prevention. We will not use any account information that asks users in any form. Please do not disclose your account information to anyone. In this way, account security is guaranteed. I wish all users a happy life, thank you! Important note: In order to facilitate each user's withdrawal, our withdrawal time is 10:00-24:00. No withdrawal service will be provided at other times. Everyone will inform each other and wish all users a happy life!
+    Recently received feedback from many users. There are many criminals impersonating cooe staff and official websites to defraud user account information and steal user account balances. Hereby remind users to strengthen their awareness of prevention. We will not use any account information that asks users in any form. Please do not disclose your account information to anyone. In this way, account security is guaranteed. I wish all users a happy life, thank you! Important note: In order to facilitate each user's withdrawal, our withdrawal time is 10:00-24:00. No withdrawal service will be provided at other times. Everyone will inform each other and wish all users a happy life!
   </div>
 <div id="green">
  <p> Available balance : ₹ <span id="amount">200040.00</span></p><br>
@@ -240,7 +240,7 @@
 </div>
 <div id="game">
   <div id="types">
-
+    
   <div class="type">Parity</div>
   <div class="type">Sapre</div>
   <div class="type">Becone</div>
@@ -282,7 +282,7 @@
   </div>
 </div>
 <br>
-<p id="present_type">Parity Record</p>
+<p id="present_type">Becone Record</p>
 
 <div id="bet">
   <h3 id="select_color">Join Green</h3>
@@ -307,7 +307,7 @@
     <p >I agree <span style="color:green">PRESALE RULE</span></p><br>
     <div id="options"><span onclick="disappear()" class="option">CANCEL</span><span onclick="confirm()" style="color:green" class="option">CONFIRM</span></div>
   </div>
-
+  
 </div>
 <br>
  <div id="heads">
@@ -315,101 +315,127 @@
     <span class="gap">Result</span>
 
   </div>
-<div id="trade">
-
-<table id="table">
-
-   <tr >
-    <td>20211107311</td>
-    <td>132326</td>
-    <td>6</td>
+  <div id="trade">
+   
+  <table id="table">
+    <tr >
+ 
+  
+     <tr >
+    <td>20220613195</td>
+    <td>143621</td>
+    <td>1</td>
     <td><div id="result">
-
+      
     </div></td>
   </tr>
+   </tr>
      <tr >
-    <td>20211107310</td>
-    <td>132342</td>
-    <td>2</td>
-    <td><div id="result">
-
-    </div></td>
-  </tr>
-     <tr >
-    <td>20211107309</td>
-    <td>132354</td>
-    <td>4</td>
-    <td><div id="result">
-
-    </div></td>
-  </tr>
-     <tr >
-    <td>20211107308</td>
-    <td>132352</td>
-    <td>2</td>
-    <td><div id="result">
-
-    </div></td>
-  </tr>
-     <tr >
-    <td>20211107307</td>
-    <td>132336</td>
-    <td>6</td>
-    <td><div id="result">
-
-    </div></td>
-  </tr>
-     <tr >
-    <td>20211107306</td>
-    <td>132338</td>
+    <td>20220613194</td>
+    <td>143638</td>
     <td>8</td>
     <td><div id="result">
-
+      
     </div></td>
   </tr>
    </tr>
      <tr >
-    <td>20211107305</td>
-    <td>132334</td>
-    <td>4</td>
-    <td><div id="result">
-
-    </div></td>
-  </tr>
-   </tr>
-     <tr >
-    <td>20211107304</td>
-    <td>132352</td>
-    <td>2</td>
-    <td><div id="result">
-
-    </div></td>
-  </tr>
-   </tr>
-     <tr >
-    <td>20211107303</td>
-    <td>132354</td>
-    <td>4</td>
-    <td><div id="result">
-
-    </div></td>
-  </tr>
-   </tr>
-     <tr >
-    <td>20211107302</td>
-    <td>132348</td>
+    <td>20220613193</td>
+    <td>143658</td>
     <td>8</td>
     <td><div id="result">
-
+       
+  <tr >
+    <td>20220613192</td>
+    <td>143644</td>
+    <td>4</td>
+    <td><div id="result">
+      
     </div></td>
   </tr>
-   </tr>
      <tr >
-    <td>20211107301</td>
-    <td>132350</td>
+    <td>20220613191</td>
+    <td>143631</td>
+    <td>1</td>
+    <td><div id="result">
+      
+    </div></td>
+  </tr>
+     <tr >
+    <td>2022060190</td>
+    <td>143620</td>
     <td>0</td>
     <td><div id="result">
-
+      
+    </div></td>
+  </tr>
+     <tr >
+    <td>20220613189</td>
+    <td>143634</td>
+    <td>4</td>
+    <td><div id="result">
+      
+    </div></td>
+  </tr>
+     <tr >
+    <td>20220613188</td>
+    <td>143617</td>
+    <td>7</td>
+    <td><div id="result">
+      
+    </div></td>
+  </tr>
+     <tr >
+    <td>20220613187</td>
+    <td>143623</td>
+    <td>3</td>
+    <td><div id="result">
+      
+    </div></td>
+  </tr>
+   </tr>
+     <tr >
+    <td>20220613186</td>
+    <td>143642</td>
+    <td>2</td>
+    <td><div id="result">
+      
+    </div></td>
+  </tr>
+   </tr>
+     <tr >
+    <td>20220613185</td>
+    <td>143624</td>
+    <td>4</td>
+    <td><div id="result">
+      
+    </div></td>
+  </tr>
+   </tr>
+     <tr >
+    <td>20220613184</td>
+    <td>143631</td>
+    <td>3</td>
+    <td><div id="result">
+      
+    </div></td>
+  </tr>
+   </tr>
+     <tr >
+    <td>20220613183</td>
+    <td>143626</td>
+    <td>6</td>
+    <td><div id="result">
+      
+    </div></td>
+  </tr>
+   </tr>
+     <tr >
+    <td>20220613182</td>
+    <td>143639</td>
+    <td>9</td>
+    <td><div id="result">
+      
     </div></td>
   </tr>
 </table>
@@ -417,15 +443,15 @@
 
 <div style="padding:15px;text-align:center;border-top:1px solid black;border-bottom:1px solid black">
   <p><i  class="far fa-list-alt"></i></p>
-  My Sapre Record</div>
+  My Becone Record</div>
 
 <div id="records">
-  <p onclick="slide(this,0)">20211107409 <span style="color:green" id="record">Success +19.60</span>
+  <p onclick="slide(this,0)">20220613409 <span style="color:green" id="record">Success +19.60</span>
   <i class="fas fa-chevron-down"></i>
   </p>
   <div class="details">
     <h4 style="color:#0097A7">Period Detail</h4>
-   <p> <span class="ans">Period</span>20211107409</p>
+   <p> <span class="ans">Period</span>20220613409</p>
    <p><span class="ans">Contract Money  </span>10.00</p>
    <p><span class="ans">Contract  Count</span>1</p>
    <p> <span class="ans">Delivery </span>9.8</p>
@@ -437,13 +463,13 @@
    <p>  <span class="ans">Amount</span>+19.6</p>
    <p> <span class="ans">Create Time </span>2021-10-28 11:30</p>
   </div>
-
-  <p onclick="slide(this,0)">20211107409 <span style="color:green" id="record">Success +19.60</span>
+  
+  <p onclick="slide(this,0)">20220613409 <span style="color:green" id="record">Success +19.60</span>
   <i class="fas fa-chevron-down"></i>
   </p>
   <div class="details">
     <h4 style="color:#0097A7">Period Detail</h4>
-   <p> <span class="ans">Period</span>20211107409</p>
+   <p> <span class="ans">Period</span>20220613409</p>
    <p><span class="ans">Contract Money  </span>10.00</p>
    <p><span class="ans">Contract  Count</span>1</p>
    <p> <span class="ans">Delivery </span>9.8</p>
@@ -455,9 +481,9 @@
    <p>  <span class="ans">Amount</span>+19.6</p>
    <p> <span class="ans">Create Time </span>2021-10-28 11:30</p>
   </div>
-
-
-
+  
+  
+  
   <br>
 </div>
 
@@ -466,14 +492,14 @@
 <script type="text/javascript" charset="utf-8">
 let chose=-1;
   let id=setInterval(run,1000);
-  let m2=0,s1=0;s2=9;
+  let m2=0,s1=5;s2=9;
   function run(){
     let counter=document.getElementById("counter");
     counter.innerHTML="<span class='timer'>0</span>"+
     "<span class='timer' >"+m2+"</span> :"+
     "<span class='timer' >"+s1+"</span>"+
     "<span class='timer' >"+s2+"</span";
-
+   
      if(s2 == 0){
        if(s1 !=0){
        s2=9;
@@ -488,7 +514,7 @@ let chose=-1;
          else{
            generate();
            m2=0;
-           s1=0;
+           s1=5;
            s2=9;
          }
        }
@@ -497,10 +523,10 @@ let chose=-1;
        s2--;
      }
   }
-
+  
   let denom=10;
   let value=1;
-  let tip=410;
+  let tip=440;
   let status=0;
   let price;
   let key;
@@ -519,7 +545,7 @@ let chose=-1;
     denom=Number(num.id);
     total.innerHTML="Total contract money is "+value*denom;
   }
-
+  
   function plus(){
    let val_span=document.getElementById("value");
    value=Number(val_span.innerHTML);
@@ -540,7 +566,7 @@ let chose=-1;
   function appear(color){
     let head=document.getElementById("select_color");
     let bet = document.getElementById("bet");
-
+    
     if(color.id == "col1"){
       head.style.backgroundColor="#41D770";
       head.innerHTML="Join Green";
@@ -565,10 +591,10 @@ let chose=-1;
     let bet = document.getElementById("bet");
     bet.style.visibility="hidden";
   }
-
+  
   function generate(){
-    let max=132500;
-    let min=132380;
+    let max=143590;
+    let min=143581;
     let rows=document.getElementById("table");
     price=(Math.floor(Math.random()*(max-min))+min);
     key=price%10;
@@ -576,23 +602,23 @@ let chose=-1;
       col="#502CBF";
       color="Violet";
       double(2);
-
+      
     }
     else if((key % 2) == 0){
       col="#FF0808";
       color="Red";
       double(3)
-
+      
     }
     else{
       col="#41D770";
       color="Green";
       double(1);
-
+      
     }
-
+   
     //console.log(key)
-    rows.innerHTML=" <tr >  <td>20211107"+tip+"</td>"+
+    rows.innerHTML=" <tr >  <td>20220613"+tip+"</td>"+
     "<td>"+price+"</td><td style='color:"+col+"'>"+key+"</td> <td><div style"+"='background-color:"+col+"' id='result1'>"+
        "</div></td> </tr"+rows.innerHTML;
        tip++;
@@ -611,22 +637,22 @@ function confirm(){
 function double(selected){
   let records=document.getElementById("records");
   let beted=(denom*value).toFixed(2);
-
+  
   if(chose == selected){
-
+  
   let amount=document.getElementById("amount");
   amount.innerHTML=(Number(amount.innerHTML)+
   (2*beted)-share(beted)).toFixed(2);
-
+     
   //console.log( (2*beted)-share(beted));
   records.innerHTML="<p onclick='slide(this,1)'"+
-  ">20211107"+tip+" <span id='record' style='color:green'>Success +"+
+  ">20220613"+tip+" <span id='record' style='color:green'>Success +"+
   ((2*(beted-share(beted))).toFixed(2))+"</span>"+
 "<i class='fas fa-chevron-down'></i>"
 +"</p>"+
   "<div class='details'>"+
     "<h4 style='color:#0097A7'>Period Detail</h4>"+
- "<p> <span class='ans'>Period</span>20211107"
+ "<p> <span class='ans'>Period</span>20220613"
  +tip+"</p>"+
   "<p><span class='ans'>Contract Money  </span>"
   +denom+".00</p>"+
@@ -656,12 +682,12 @@ function double(selected){
   else{
     if(status){
    records.innerHTML="<p onclick='slide(this,1)'"+
-   ">20211107"+tip+" <span  id='record' style='color"+":red;'>Failure -"+
+   ">20220613"+tip+" <span  id='record' style='color"+":red;'>Failure -"+
       ((beted-share(beted)).toFixed(2))+"</span>"+
     "<i class='fas fa-chevron-down'></i></p>"+
     "<div class='details'>"+
     "<h4 style='color:#0097A7'>Period Detail</h4>"+
- "<p> <span class='ans'>Period</span>20211107"
+ "<p> <span class='ans'>Period</span>20220613"
  +tip+"</p>"+
   "<p><span class='ans'>Contract Money  </span>"
   +denom+".00</p>"+
